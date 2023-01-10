@@ -109,20 +109,7 @@
   min-height: 342px;
 }
 
-.u-section-2 .u-image-1 {
-  width: 308px;
-  height: 308px;
-  object-position: 50% 14.55%;
-  background-image: url("np://user.desktop.nicepage.com/Site_98495385/images/untitled-08409-modified-min-min.png?rand=b8aa");
-  background-position: 50% 50%;
-  margin: 0 auto;
-}
-
-.u-section-2 .u-layout-cell-2 {
-  min-height: 342px;
-}
-
-.u-section-2 .u-container-layout-2 {
+.u-section-2 .u-container-layout-1 {
   padding-left: 60px;
 }
 
@@ -147,6 +134,19 @@
   margin: 20px auto 0 0;
 }
 
+.u-section-2 .u-layout-cell-2 {
+  min-height: 342px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 308px;
+  height: 308px;
+  object-position: 50% 14.55%;
+  background-image: url("images/Jack_Grad.jpeg");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 780px;
@@ -158,6 +158,23 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
+    min-height: 297px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 49px;
+    padding-right: 49px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
     background-position: 50% 50%;
     min-height: 297px;
   }
@@ -165,23 +182,6 @@
   .u-section-2 .u-image-1 {
     width: 290px;
     height: 290px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 297px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 49px;
-    padding-right: 49px;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-right: 49px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-right: 49px;
   }
 }
 
@@ -195,29 +195,21 @@
   }
 
   .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 38px;
+    padding-right: 38px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
     min-height: 227px;
   }
 
   .u-section-2 .u-image-1 {
     width: 213px;
     height: 213px;
-  }
-
-  .u-section-2 .u-layout-cell-2 {
-    min-height: 100px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
-    padding-left: 38px;
-    padding-right: 38px;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-right: 38px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-right: 38px;
   }
 }
 
@@ -230,21 +222,13 @@
     width: 540px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 486px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
+  .u-section-2 .u-container-layout-1 {
     padding-left: 28px;
     padding-right: 28px;
   }
 
-  .u-section-2 .u-text-1 {
-    margin-right: 28px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-right: 28px;
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 486px;
   }
 }
 
@@ -257,21 +241,13 @@
     width: 340px;
   }
 
-  .u-section-2 .u-layout-cell-1 {
-    min-height: 306px;
-  }
-
-  .u-section-2 .u-container-layout-2 {
+  .u-section-2 .u-container-layout-1 {
     padding-left: 18px;
     padding-right: 18px;
   }
 
-  .u-section-2 .u-text-1 {
-    margin-right: 18px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-right: 18px;
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 306px;
   }
 } .u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/SS2022-06-29at6.23.32pm.png");
