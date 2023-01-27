@@ -3,13 +3,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 612px;
+  min-height: 614px;
 }
 
 .u-section-1 .u-group-1 {
   min-height: 50px;
-  margin-top: 562px;
-  margin-bottom: 60px;
+  margin-top: 564px;
+  margin-bottom: 0;
   width: 100%;
 }
 
@@ -19,14 +19,13 @@
 }
 
 .u-section-1 .u-text-1 {
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 2;
-  font-size: 1.25rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 8px;
-  background-image: none;
+  font-size: 1.25rem;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 2;
   margin: 0 0 0 20px;
 }
 
@@ -37,7 +36,7 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 183px;
+    min-height: 506px;
   }
 
   .u-section-1 .u-group-1 {
@@ -57,6 +56,10 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 388px;
+  }
+
   .u-section-1 .u-container-layout-1 {
     padding-right: 13px;
   }
@@ -67,6 +70,10 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 291px;
+  }
+
   .u-section-1 .u-container-layout-1 {
     padding-right: 9px;
   }
@@ -82,11 +89,11 @@
   }
 
   .u-section-1 .u-sheet-1 {
-    min-height: 612px;
+    min-height: 614px;
   }
 
   .u-section-1 .u-group-1 {
-    margin-bottom: 0;
+    width: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -287,22 +294,22 @@
 .u-section-3 .u-social-icons-1 {
   height: 48px;
   min-height: 16px;
-  width: 252px;
-  min-width: 124px;
+  width: 184px;
+  min-width: 88px;
   box-shadow: 2px 0 0 0 rgba(0,0,0,0);
   animation-timing-function: ease-in-out;
   margin: 23px auto 0;
 }
 
-.u-section-3 .u-icon-2 {
+.u-section-3 .u-icon-1 {
   color: rgb(17, 17, 17) !important;
 }
 
-.u-section-3 .u-icon-3 {
+.u-section-3 .u-icon-2 {
   height: 100%;
 }
 
-.u-section-3 .u-icon-4 {
+.u-section-3 .u-icon-3 {
   height: 100%;
 }
 
@@ -317,18 +324,6 @@
 
   .u-section-3 .u-group-elements-1 {
     height: auto;
-  }
-
-  .u-section-3 .u-social-icons-1 {
-    width: 276px;
-    height: 54px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-3 .u-social-icons-1 {
-    width: 304px;
-    height: 61px;
   }
 }
 
